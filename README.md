@@ -1,29 +1,15 @@
-# Linketree
+# Linktree
 
-This template should help get you started developing with Vue 3 in Vite.
+## Descrição
 
-## Recommended IDE Setup
+O projeto "Linktree" é uma aplicação Vue.js que replica a funcionalidade do Linktree. 
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+O Linktree é uma ferramenta popular usada para agrupar vários links em um único lugar, como perfis de mídia social, portfólios, páginas de produtos e muito mais.
 
-## Customize configuration
+Nesta aplicação eu criei minha própria página personalizada com uma lista de links para redirecionar os visitantes para suas diferentes plataformas e conteúdos online. Com um design simples, intuitivo e responsivo.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Este projeto foi uma ótima oportunidade para praticar habilidades em Vue.js, gerenciamento de estado com Vuex, estilização com CSS e muito mais.
 
-## Project Setup
+## Autor
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Victor Dias
