@@ -1,22 +1,22 @@
 [
     {
         "titulo": "github",
-        "img": "public/img/github.jpg",
+        "img": "/github.jpg",
         "href": "https://github.com/VictorDia0"
     },
     {
         "titulo": "linkedin",
-        "img": "public/img/link.jpg",
+        "img": "/link.jpg",
         "href": "https://www.linkedin.com/in/vicdiass/"
     },
     {
         "titulo": "instagram",
-        "img": "public/img/linkf.jpg",
+        "img": "/linkf.jpg",
         "href": "https://www.instagram.com/victor_dp02/"
     },
     {
         "titulo": "Email",
-        "img": "public/img/email.jpg",
+        "img": "/email.jpg",
         "href": "mailto:victordiaspereira53@gmail.com"
     }
 ]
