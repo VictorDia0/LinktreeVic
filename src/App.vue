@@ -18,7 +18,7 @@ export default {
 
 <template>
   <div class="logo">
-    <img alt="Vue logo" src="src/Dados/img/profile-pic(1).png" /><span
+    <img alt="Vue logo" src="src/Dados/img/minhafoto.png" /><span
       id="nome"
       >Victor Dias Pereira</span
     >
